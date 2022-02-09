@@ -11,6 +11,5 @@ if chk==1:
 else:
     print("Odd Number")
  Output:
-Enter the first number: 10
-Enter the second number: 20
-20 is greater
+Enter a number: 12
+Even number
